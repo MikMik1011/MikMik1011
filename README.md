@@ -2,7 +2,7 @@
 
 ## IT student @ Faculty of Sciences, University of Novi Sad
 
-## Developing stuff related to backend, blockchain, GTA and other stuff
+## Developing stuff related to web3, backend, blockchain, GTA and other stuff
 
 </br>
 
