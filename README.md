@@ -2,6 +2,8 @@
 
 ## IT student @ Faculty of Sciences, University of Novi Sad
 
+## Junior Blockchain Developer @ Moonstruck
+
 ## Developing stuff related to web3, backend, blockchain, GTA and other stuff
 
 </br>
