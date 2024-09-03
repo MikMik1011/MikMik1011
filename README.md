@@ -14,9 +14,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikMik1011&hide=jupyter%20notebook&layout=compact&theme=gotham" width="50%" >
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MikMik1011&theme=gotham" width="50%">
-
-
 
 
 
