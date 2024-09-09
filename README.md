@@ -1,6 +1,4 @@
-## IT student @ Faculty of Sciences, University of Novi Sad
-
-## Blockchain & Backend Developer @ Moonstruck
+## ummm... idk what to put here so here are guthib vigets!!1
 
 </br>
 
